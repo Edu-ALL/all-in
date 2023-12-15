@@ -33,7 +33,7 @@
 
                 {{-- Cultural Immersion Research Program --}}
                 <div class="py-10 flex flex-col items-center gap-y-6 w-full max-w-3xl mx-auto">
-                    <img src="{{ asset('assets/img/global_innovators_project/cirp.webp') }}"
+                    <img src="{{ asset('assets/img/global_innovators_project/CEP Bali.webp') }}"
                         alt="Allineduspace Cultural Immersion Research Program Logo"
                         class="w-full max-w-xl mx-auto object-contain">
                     <div class="flex flex-col md:flex-row justify-center items-center gap-4">
