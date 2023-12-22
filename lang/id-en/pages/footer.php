@@ -3,7 +3,7 @@
 return [
     'address' => 'Address',
     'consultation' => 'Consultation',
-    'consultation_sub' => 'Consultation available by appointment only on Mon-Fri 9-17',
+    'consultation_sub' => 'Initial consultations will be available by appointment starting in January.',
     'consultation_desc' => 'Book your appointment now',
     'company' => 'Company',
     'article' => 'Latest Article',

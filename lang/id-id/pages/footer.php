@@ -3,7 +3,7 @@
 return [
     'address' => 'Alamat',
     'consultation' => 'Konsultasi',
-    'consultation_sub' => 'Konsultasi tersedia dengan janji temu hanya pada Senin-Jumat 9-17',
+    'consultation_sub' => 'Konsultasi akan tersedia dengan perjanjian mulai bulan Januari.',
     'consultation_desc' => 'Pesan janji temu Anda sekarang',
     'company' => 'Perusahaan',
     'article' => 'Artikel Terbaru',
